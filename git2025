@@ -15,3 +15,8 @@ hint: Disable this message with "git config set advice.forceDeleteBranch false"
 
 
 fdkfjlkafjklajflaf
+
+
+fdkajdjflkajfklajflajflajflkHP@LAPTOP-DFD6JQ0S MINGW64 ~/Desktop/git_zk/github (main)
+$ git branch feature3
+fatal: not a valid object name: 'main'
